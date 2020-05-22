@@ -1,0 +1,8 @@
+# Python program to print positive Numbers in a Range 
+  
+list1 = [11, -21, 10, 45, 49, -91] 
+  
+for num in list1: 
+      
+    if num >= 0: 
+       print(num, end = " ") 
